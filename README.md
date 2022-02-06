@@ -1,5 +1,4 @@
 
-
 <!--
 **hussnain-imtiaz/hussnain-imtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,27 +15,27 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="assets/flag-banner.jpg" height="230"/>
+  <img src="assets/flag-banner.jpg" height="200"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/hussnain-imtiaz">Hussnain Imtiaz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 👨‍🔬: I'm an AI Consultant/Instructor and Data Scientist .
+- 🔭: I’m currently working on Optimization of NNs and many other ML/Data Projects.
+- 🌱: I’m currently learning Pytorch and Terality (It's really fun!). 🧠💻🤖
+- 🤔: I’m looking for help with DeepStream! 😅
+- 💬: Ask me about Python, Data Analysis, Visualization, Machine Learning and Comptuter Vision. 📊📈🤖🧠
+- ⚡  Fun fact: I have not figured out yet! 😂
   
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/hussnain0" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hussnainimtiaz0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/hussnain-imtiaz" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://api.whatsapp.com/send?phone=923111415961&text=Hi%20Hussnain!%20" target="blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-Ping%20me-green"/></a> &nbsp;&nbsp;&nbsp;  
+<a href="mailto:hussnainimtiaz0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/hussnain-imtiaz" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
