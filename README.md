@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <Br>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=923111415961&text=Hi%20Hussnain!%20" target="blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-Ping%20me-green"/></a> &nbsp;&nbsp;&nbsp;  
-<a href="mailto:hussnainimtiaz0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/hussnain-imtiaz" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:hussnainimtiaz0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Write%20Me-red" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="https://www.linkedin.com/in/hussnain1/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
 </p>
   
 <Br>
@@ -82,14 +83,7 @@ Here are some ideas to get you started:
 
 <Br>
 <hr>
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
 
- 
-<Br>
 <hr>
 <Br>
 
