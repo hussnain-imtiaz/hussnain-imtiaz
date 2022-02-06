@@ -5,7 +5,7 @@
   <img src="assets/flag-banner.jpg" height="200"/>
 </p>
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hussnain Imtiaz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hussnain Imtiaz<a></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
