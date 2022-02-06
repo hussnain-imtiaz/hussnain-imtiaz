@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   <img src="assets/flag-banner.jpg" height="200"/>
 </p>
 -->
-<hr>
 <h1 align="center">I'm <a href="https://github.com/hussnain-imtiaz">Hussnain Imtiaz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
@@ -65,6 +64,7 @@ Here are some ideas to get you started:
 <Br>
 <hr>
 <Br>
+<!--  
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 <Br>
 
 <hr>
+-->
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
