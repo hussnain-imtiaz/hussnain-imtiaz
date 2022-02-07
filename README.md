@@ -7,14 +7,14 @@
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hussnain Imtiaz<a></h1>
 <h3 align="center">AI Consultant/Instructor and Data Scientist 👨‍🔬</h3>
-<h1>About Me! 😎</h1>
+<h2>About Me! 😎</h2>
 
 - 🔭: I’m currently working on Optimization of NNs and many other ML/Data Projects.
 - 🌱: I’m currently learning Pytorch and Terality (It's really fun!). 🧠💻🤖
 - 🤔: I’m looking for help with DeepStream! 😅
 - 💬: Ask me about Python, Data Analysis, Visualization, Machine Learning and Comptuter Vision. 📊📈🤖🧠
 - ⚡  Fun fact: I have not figured out yet! 😂
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussnain-imtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="hussnain-imtiaz" /> </p>  
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
