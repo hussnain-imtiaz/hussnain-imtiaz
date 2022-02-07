@@ -6,7 +6,6 @@
 </p>
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hussnain Imtiaz<a></h1>
-<Br>
 <h3 align="center">AI Consultant/Instructor and Data Scientist 👨‍🔬</h3>
 <h1>About Me! 😎</h1>
 
