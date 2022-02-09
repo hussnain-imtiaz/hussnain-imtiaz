@@ -11,7 +11,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussnain-imtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="hussnain-imtiaz" /> </p>       
   
-- 🔭: I’m currently working on Optimization of NNs and many other ML/Data Projects.
+- 🔭: I’m currently working on **Optimization of NNs** and many other ML/Data Projects.
 - 🌱: I’m currently learning **Pytorch** and **Terality** (It's really fun!). 🧠💻🤖
 - 🤔: I’m looking for help with **DeepStream!** 😅
 - 💬: Ask me about **Python, Data Analysis, Visualization, Machine Learning and Comptuter Vision**. 📊📈🤖🧠
