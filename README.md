@@ -41,7 +41,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Tools I use! 🛠️</h1>
+<h1>Tools I Use! 🛠️</h1>
 <Br>
  
 <p align="left"> 
