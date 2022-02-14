@@ -15,7 +15,7 @@
 - 🌱: I’m currently learning **Pytorch** and **Terality** (It's really fun!). 🧠💻🤖
 - 🤔: I’m looking for help with **DeepStream!** 😅
 - 💬: Ask me about **Python, Data Analysis, Visualization, Machine Learning and Comptuter Vision**. 📊📈🤖🧠
-- ⚡  Fun fact: I have not figured out yet! 😂
+- ⚡: Fun fact: I have not figured out yet! 😂
  
 <hr>
 <Br>
